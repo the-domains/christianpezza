@@ -1,0 +1,28 @@
+name: ChristianPezza
+favicon: null
+layout_spectrum: 0.6725152069702744
+typography_spectrum: 0.7152744980994612
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.33441467909142375
+  lightness: 0.9029853425454348
+  saturation: 0.3311886368319392
+  rhythmicContrast: 0.8446734556928277
+purpose: []
