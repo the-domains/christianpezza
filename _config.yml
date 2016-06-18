@@ -1,7 +1,7 @@
 name: ChristianPezza
 favicon: null
-layout_spectrum: 0.6979787268210202
-typography_spectrum: 0.48396966722793877
+layout_spectrum: 0.8681196453981102
+typography_spectrum: 0.26079617510549724
 title: Christian Pezza
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F2836B'
     - '#F2594B'
     - '#CD2C24'
-  brandStrength: 0.04513577511534095
-  lightness: 0.9261860291007906
-  saturation: 0.0013728495687246323
-  rhythmicContrast: 0.7401391584426165
+  brandStrength: 0.24582277797162533
+  lightness: 0.18997450498864055
+  saturation: 0.2614253687206656
+  rhythmicContrast: 0.3390170163474977
 purpose: []
