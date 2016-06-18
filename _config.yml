@@ -1,7 +1,7 @@
 name: ChristianPezza
 favicon: null
-layout_spectrum: 0.99819
-typography_spectrum: 0.88143
+layout_spectrum: 0.6979787268210202
+typography_spectrum: 0.48396966722793877
 title: Christian Pezza
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3d3a35'
-    - '#00fffb'
-    - '#d0b586'
-    - '#768abf'
-    - '#a2141d'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.625
-  rhythmicContrast: 0.5
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+  brandStrength: 0.04513577511534095
+  lightness: 0.9261860291007906
+  saturation: 0.0013728495687246323
+  rhythmicContrast: 0.7401391584426165
 purpose: []
