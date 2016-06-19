@@ -10,8 +10,8 @@ description: >-
   income and profits through price appreciation. The tax implications for
   investment real estate are often different than those for residential real
   estate.
-datePublished: '2016-06-19T01:22:17.038Z'
-dateModified: '2016-06-19T01:21:59.479Z'
+datePublished: '2016-06-19T01:22:58.977Z'
+dateModified: '2016-06-19T01:22:58.141Z'
 title: ''
 author:
   - name: ''
@@ -20,7 +20,7 @@ authors: []
 publisher: null
 sourcePath: >-
   _posts/2016-06-18-it-is-common-for-investors-to-own-multiple-pieces-of-real-es.md
-starred: false
+starred: true
 url: it-is-common-for-investors-to-own-multiple-pieces-of-real-es/index.html
 _type: Article
 
