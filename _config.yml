@@ -1,29 +1,29 @@
-name: ChristianPezza
-favicon: null
-layout_spectrum: 0.8681196453981102
-typography_spectrum: 0.26079617510549724
-title: Christian Pezza
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-79555555-1
-  facebook: null
-  twitter: null
+typography_spectrum: 0.88143
+color:
+  brandColors:
+    - '#3d3a35'
+    - '#00fffb'
+    - '#d0b586'
+    - '#768abf'
+    - '#a2141d'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 0.5
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#63A69F'
-    - '#F2E1AC'
-    - '#F2836B'
-    - '#F2594B'
-    - '#CD2C24'
-  brandStrength: 0.24582277797162533
-  lightness: 0.18997450498864055
-  saturation: 0.2614253687206656
-  rhythmicContrast: 0.3390170163474977
+layout_spectrum: 0.99819
+analytics:
+  google: UA-79555555-1
+  facebook: null
+  twitter: null
+name: ChristianPezza
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Christian Pezza
 purpose: []
