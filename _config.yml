@@ -19,6 +19,9 @@ analytics:
   google: UA-79555555-1
   facebook: null
   twitter: null
+author:
+  name: Christian Pezza
+  email: cpezza@gmail.com
 name: ChristianPezza
 cta:
   domain: null
