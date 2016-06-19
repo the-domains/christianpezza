@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Christian Pezza]]></title>
         <description><![CDATA[Christian Pezza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.christianpezza.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 01:22:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 19 Jun 2016 01:22:19 GMT</lastBuildDate>
+        <atom:link href="http://www.christianpezza.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd10f10-6632-47c9-a866-2880a314fdfb.jpg">]]></description>
+            <link>http://www.christianpezza.com/title-of-a-post/index.html</link>
+            <guid isPermaLink="false">08b3d492-a6d6-4cb2-b9ee-e0a42f9b4402</guid>
+            <pubDate>Sun, 19 Jun 2016 01:22:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83f4e0b8-0a23-49b6-a9f1-a4353eaaa861.jpg" alt="" title="">]]></description>
-            <link>undefinedit-is-common-for-investors-to-own-multiple-pieces-of-real-es/index.html</link>
+            <link>http://www.christianpezza.com/it-is-common-for-investors-to-own-multiple-pieces-of-real-es/index.html</link>
             <guid isPermaLink="false">21613966-8959-4f17-b353-c43388bc6b66</guid>
             <pubDate>Sun, 19 Jun 2016 01:22:17 GMT</pubDate>
         </item>
